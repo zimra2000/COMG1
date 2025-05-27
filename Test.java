@@ -28,4 +28,9 @@ public class Test{
 
 >>>>>>> F2
 
+public void display(){
+		if(isEmpty()){
+			System.out.println("Stack is Overflow");
+		}
+	}
 }
