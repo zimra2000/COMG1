@@ -1,0 +1,6 @@
+#Ignore all class files
+*.class
+
+#Ignore 2 text files
+F1.txt
+F2.pdf
