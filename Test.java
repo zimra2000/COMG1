@@ -13,5 +13,19 @@ public class Test{
 		stk[++top] =item;
 		}
 	}
+<<<<<<< HEAD
+=======
+	public int pop(){
+		if(isEmpty(){
+			System.out.println("Stack is Underrflow");
+			return 0;
+		}
+		else{
+			int item = stk[top++};
+			return item;
+		}
+	}
+
+>>>>>>> F2
 
 }
